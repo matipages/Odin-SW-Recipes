@@ -1,0 +1,58 @@
+body{
+    background-color: black ;
+}
+
+.title{
+    color: yellow;
+    font-size: 50px;
+    font-family: 'impact', Courier, monospace;
+    
+}
+
+.vader{
+    width: 500px;
+    border: 1cm;
+    border-radius: 50%;
+    border-color: white;
+}
+
+.indice{
+    color: white;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.footer{
+    color:white;
+    font-size: 20px;
+}
+
+a{
+    color: white;
+}
+
+.enlace{
+    color:yellow;
+}
+
+.imagenes-recetas{
+    width: 900px;
+    height: auto;
+    border: 1cm;
+    border-radius: 45%;
+}
+
+.subtitulo{
+    color:yellow
+}
+
+.receta{
+    color:white;
+    font-size: 20px;
+}
+
+p em{
+    color: yellow;
+    font-size: 25px;
+}
